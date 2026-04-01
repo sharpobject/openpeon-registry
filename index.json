@@ -5747,6 +5747,53 @@
       "updated": "2026-02-12"
     },
     {
+      "name": "nyanners",
+      "display_name": "Nyanners Voice Pack",
+      "version": "1.0.0",
+      "description": "Nyanners voice lines from SMITE and stream clips, categorized for coding events.",
+      "author": {
+        "name": "sharpobject",
+        "github": "sharpobject"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "resource.limit",
+        "session.end",
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "task.progress",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "fair-use",
+      "sound_count": 35,
+      "total_size_bytes": 949495,
+      "source_repo": "sharpobject/openpeon-nyanners",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "e8a39aaa684b0f9c0520c2ea1a0afa0760f00ef5389d58bebcd4a79db8db242f",
+      "tags": [
+        "vtuber",
+        "nyanners",
+        "anime",
+        "smite",
+        "catgirl"
+      ],
+      "preview_sounds": [
+        "hello_everynyan.ogg",
+        "okay.ogg",
+        "completed.ogg",
+        "fuck.mp3",
+        "help.ogg",
+        "im_on_it.ogg"
+      ],
+      "added": "2026-04-01",
+      "updated": "2026-04-01"
+    },
+    {
       "name": "office_space",
       "display_name": "Office Space",
       "version": "1.0.0",
